@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP003A.Reflection", "COMP003A.Reflection\COMP003A.Reflection.csproj", "{88488701-5C3A-410C-919B-2897268DA2F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88488701-5C3A-410C-919B-2897268DA2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88488701-5C3A-410C-919B-2897268DA2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88488701-5C3A-410C-919B-2897268DA2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88488701-5C3A-410C-919B-2897268DA2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
